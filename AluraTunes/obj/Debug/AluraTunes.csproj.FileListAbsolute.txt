@@ -1,0 +1,6 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\AluraTunes.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\AluraTunes.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\AluraTunes.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.pdb

@@ -1,0 +1,8 @@
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/bin/Debug/AluraTunes.exe.config
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/bin/Debug/AluraTunes.exe.mdb
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/bin/Debug/AluraTunes.pdb
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/bin/Debug/AluraTunes.exe
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/obj/Debug/AluraTunes.exe
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/obj/Debug/AluraTunes.exe.mdb
+/Users/rodrigofilomeno/Documents/workspace/AluraTunesLinq/AluraTunes/obj/Debug/AluraTunes.pdb

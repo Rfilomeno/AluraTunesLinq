@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{97AE1B55-4258-4783-A96E-155D075037AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.AluraTunes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AluraTunes/LinqToObjects.cs">
+    <Files>
+      <File FileName="AluraTunes/Program.cs" Line="17" Column="13" />
+      <File FileName="AluraTunes/Data/AluraTunes.xml" Line="17" Column="13" />
+      <File FileName="AluraTunes/LinqToObjects.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

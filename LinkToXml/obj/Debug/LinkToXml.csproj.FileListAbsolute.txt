@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\bin\Debug\LinkToXml.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\bin\Debug\LinkToXml.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\bin\Debug\LinkToXml.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\obj\Debug\LinkToXml.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\obj\Debug\LinkToXml.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\LinkToXml\obj\Debug\LinkToXml.pdb

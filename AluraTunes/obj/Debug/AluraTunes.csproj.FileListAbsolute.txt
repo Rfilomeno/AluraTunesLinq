@@ -4,3 +4,11 @@ c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\bin
 c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.csprojResolveAssemblyReference.cache
 c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.exe
 c:\users\rodrigo\documents\visual studio 2015\Projects\AluraTunes\AluraTunes\obj\Debug\AluraTunes.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\AluraTunes.mdf
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\AluraTunes_log.ldf
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\Data\AluraTunes.mdf
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\Data\AluraTunes_log.ldf
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\AluraTunes\AluraTunes\bin\Debug\EntityFramework.SqlServer.xml
